@@ -1,6 +1,6 @@
 # DBMS-API
 
-# ER Diagram has been added as jpg file.
+## ER Diagram has been added as jpg file.
 ERD.jpg
 
 # Relational Algebra
