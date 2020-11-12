@@ -1,7 +1,8 @@
 # DBMS-API
 
 ER Diagram has been added as jpg file.
-ERD.jpg
+
+# ERD.jpg
 
 
 -> Each Product Refers to Stock. [Product: Stock is  1 : Many Relationship]
