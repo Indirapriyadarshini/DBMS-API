@@ -1,10 +1,9 @@
 # DBMS-API
 
-ER Diagram has been added as jpg file.
+# ER Diagram has been added as jpg file.
+ERD.jpg
 
-# ERD.jpg
-
-
+# Relational Algebra
 -> Each Product Refers to Stock. [Product: Stock is  1 : Many Relationship]
 Rule0:     RX = Product ,  RY = Stock ;  PK(RX) = ProdId,  FK(RY) = prodId
 Rule2:  (one - Many )
